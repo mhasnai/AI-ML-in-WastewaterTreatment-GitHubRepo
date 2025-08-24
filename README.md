@@ -80,7 +80,7 @@ If you use this repository, please cite:
   title        = {AI-ML-in-WastewaterTreatment-GitHubRepo},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.xxxxx},  
+  doi          = {https://doi.org/10.5281/zenodo.16936040},  
   url          = {https://github.com/<your-username>/AI-in-Wastewater-Treatment}
 }
 ```
