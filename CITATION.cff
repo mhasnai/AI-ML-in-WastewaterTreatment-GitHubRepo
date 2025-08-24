@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "AI in Wastewater Treatment"
+authors:
+  - family-names: "<Your Surname>"
+    given-names: "<Your Given Names>"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/<your-username>/AI-in-Wastewater-Treatment"
+version: "1.0.0"
+date-released: "2025-08-24"
