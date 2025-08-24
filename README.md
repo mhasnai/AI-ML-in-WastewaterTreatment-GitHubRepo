@@ -74,13 +74,14 @@ This project is licensed under the **Creative Commons Attribution 4.0 Internatio
 ## ✍️ How to Cite
 If you use this repository, please cite:
 
-```
-@misc{AI_in_Wastewater_Treatment,
-  title  = {AI in Wastewater Treatment},
-  author = {<Your Name>},
-  year   = {2025},
-  url    = {https://github.com/<your-username>/AI-in-Wastewater-Treatment},
-  note   = {Code, models, and datasets accompanying the wastewater ML study.}
+```bibtex
+@software{Hassnain_AIWastewater_2025,
+  author       = {Muhammad Hassnain and Sarada M.W. Lee and Muhammad Rizwan Azhar},
+  title        = {AI-ML-in-WastewaterTreatment-GitHubRepo},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.xxxxx},  
+  url          = {https://github.com/<your-username>/AI-in-Wastewater-Treatment}
 }
 ```
 ---
