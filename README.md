@@ -10,12 +10,12 @@ This repository hosts machine learning (ML) models, validation datasets, and gra
 
 ```
 AI-in-Wastewater-Treatment/
+├── AUTHORS_DECLARATION.md
+├── CITATION.cff
+├── CONTRIBUTING.md
 ├── LICENSE
 ├── README.md
-├── AUTHORS_DECLARATION.md
 ├── .gitignore
-├── CONTRIBUTING.md
-├── CITATION.cff
 │
 └── Models and Sample Validation Data/
     ├── Final Effluent Process Parameters/
