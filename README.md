@@ -4,9 +4,6 @@
 
 This repository hosts machine learning (ML) models, validation datasets, and graphical user interface (GUI) code that demonstrate the applications of **artificial intelligence (AI)** in wastewater treatment.
 
-> ## Abstract
-> In the fight against climate change, population growth, and urbanisation, the integration of machine learning (ML) is redefining how wastewater management is conducted in a more efficient, robust, and environmentally friendly manner. This paper explores the powerful applications of ML, a subset of artificial intelligence (AI), in a wastewater treatment plant. It focuses on key areas, including predicting and modelling inlet wastewater flow, inlet band screen levels, aeration energy, aeration flow rate, final effluent pump station energy, ocean discharge pressure, and critical effluent quality parameters such as final effluent ammonium, mixed liquor suspended solids, and final effluent suspended solids. Historical data are extracted from instruments and laboratory tests at variable frequencies. Two advanced ML and AI models, extra trees (ExT) and neural networks (NN), are examined for their predictive accuracy. While the predictions for effluent quality were satisfactory, the models demonstrated remarkable performance, with a coefficient of determination (R²) for validation and prediction values exceeding 0.96 in most scenarios. Additionally, simulation graphical user interfaces have been developed for each application, and NN with contour plots are utilised to assess combinations for setting boundary conditions, ensuring safe and efficient operations. This work demonstrates how ML can address specific industrial operational challenges, reduce energy consumption, and promote safer and more sustainable wastewater treatment, representing a significant step in addressing global water issues.
-
 ---
 
 ## 📂 Repository Structure
