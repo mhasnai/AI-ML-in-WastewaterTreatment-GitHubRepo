@@ -76,8 +76,8 @@ If you use this repository, please cite:
   note   = {Code, models, and datasets accompanying the wastewater ML study.}
 }
 ```
-Authors’ Declaration
-This repository with associated research paper have been prepared by the authors in their personal capacities based on scientific and technological knowledge and expertise. The views, opinions, interpretations, and conclusions expressed in this work are solely those of the authors and do not reflect the views, positions, or policies of any current or former employers, organisations, governmental bodies, or affiliated institutions. The content was developed independently and without influence from any professional roles or responsibilities held by the authors. Any resemblance to actual events, policies, data, assets, places, or entities is purely coincidental, and no part of this work should be construed as representing or implicating any institution with which any of the authors are, or have been, affiliated.
+---
+Authors’ Declaration: This repository with associated research paper have been prepared by the authors in their personal capacities based on scientific and technological knowledge and expertise. The views, opinions, interpretations, and conclusions expressed in this work are solely those of the authors and do not reflect the views, positions, or policies of any current or former employers, organisations, governmental bodies, or affiliated institutions. The content was developed independently and without influence from any professional roles or responsibilities held by the authors. Any resemblance to actual events, policies, data, assets, places, or entities is purely coincidental, and no part of this work should be construed as representing or implicating any institution with which any of the authors are, or have been, affiliated.
 ---
 
 ## 🤝 Contributions
