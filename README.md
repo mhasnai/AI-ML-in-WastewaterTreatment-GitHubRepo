@@ -14,6 +14,7 @@ AI-in-Wastewater-Treatment/
 ├── CITATION.cff
 ├── CONTRIBUTING.md
 ├── LICENSE
+├── Python Environment.yaml
 ├── README.md
 ├── .gitignore
 │
