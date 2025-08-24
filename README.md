@@ -12,13 +12,22 @@ This repository hosts machine learning (ML) models, validation datasets, and gra
 AI-in-Wastewater-Treatment/
 ├── LICENSE
 ├── README.md
+├── AUTHORS_DECLARATION.md
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── CITATION.cff
 │
-├── Models and Sample Validation Data/
-│   ├── Models/
-│   └── Sample Datasets/
+└── Models and Sample Validation Data/
+    ├── Final Effluent Process Parameters/
+        └── Sample Data and Folders contaning NN model 
+    ├── Lab Parameters/
+        └── Sample Data and Folders contaning NN model 
+    ├── Plant_1 Inlet Parameters/
+        └── Sample Data and Folders contaning NN model 
+    ├── Plant_2 Flow Parameter/
+        └── Sample Data and Folders contaning NN model 
+    ├── Secondary Treatment Parameters/
+        └── Sample Data and Folders contaning NN model 
 │
 └── Model Simulation GUIs code/
 ```
