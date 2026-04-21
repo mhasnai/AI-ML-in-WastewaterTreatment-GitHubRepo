@@ -11,9 +11,12 @@ authors:
   - family-names: "Azhar"
     given-names: "Muhammad Rizwan"
     affiliation: "School of Engineering, Edith Cowan University (ECU), 270 Joondalup Dr, Joondalup WA 6027, Australia"
-    orcid: ""   # you can add if available
+    orcid: ""   # add if available
+  - family-names: "Veal"
+    given-names: "Cameron"
+    affiliation: "Queensland Alliance for Environmental Health Sciences, Faculty of Health, Medicine and Behavioural Sciences, The University of Queensland, St Lucia, QLD 4053, Australia"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/<your-username>/AI-in-Wastewater-Treatment"
 version: "1.0.0"
 date-released: "2025-08-24"
-doi: "10.5281/zenodo.xxxxx"   # replace with Zenodo DOI once minted
+doi: "https://doi.org/10.5281/zenodo.16936040"
